@@ -81,7 +81,7 @@ section {
     grid-template-columns: repeat(3, [col-start] 1fr);
     margin-top: 100px;
     margin-bottom: 120px;
-    grid-column: 4 / span 6;
+    grid-column: 4 / span 7;
     height: 300px;
 }
 
